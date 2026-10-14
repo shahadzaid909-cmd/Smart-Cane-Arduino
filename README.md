@@ -16,7 +16,7 @@ The prototype uses obstacle detection and vibration rather than audible alarms. 
 
 ## Project documentation
 
-The project poster is included as [`Smart_Cane_Project_Poster.pdf`](Smart_Cane_Project_Poster.pdf). It documents the concept and shows photos of the physical prototype in Arabic and English. It includes photos of the physical prototype and an overview in Arabic and English.
+The project poster is included as [`Smart_Cane_Project_Poster.pdf`](Smart_Cane_Project_Poster.pdf). It documents the concept, shows photos of the physical prototype, and provides an overview in Arabic and English.
 
 ## Technology and focus
 
